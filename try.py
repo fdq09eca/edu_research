@@ -112,7 +112,7 @@ def get_args():
     parser.add_argument("-t", "--to_yr", help = f"to year of publication, default: {datetime.datetime.now().year}", type=int, default = datetime.datetime.today().year)
     parser.add_argument("-a", "--author", help = "for the particular authors", type=str)
     parser.add_argument("-p", "--publisher", help = "search with in a particular publisher or journal", type=str)
-    parser.add_argument('-n', '--N', help = "limit search to n literatures", type=int, default=10)
+    parser.add_argument('-n', '--n_result', help = "limit search to n literatures", type=int, default=10)
     return parser.parse_args()
 args = get_args()
 
