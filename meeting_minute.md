@@ -20,7 +20,7 @@ Review for last 3 years research related to the following topics:
 
 ## Objective
 
-1. preliminary understanding of the recent development in the above topics
+1. Preliminary understanding of the recent development in the above topics
 2. Record their data sources.
 3. Seek appropriateness to apply their methodology and research idea in HK and GBA context.
 
