@@ -13,10 +13,8 @@ Review for last 3 years research related to the following topics:
    1. Labour interaction and mobility between HK and GBA
    2. the labour return (income) in these areas
 2. Youth/Student health and well being
-   1. Mental and physical health
-   2. PISA
+   1. Mental and physical health, PISA
 3. School management system and HE reform
-   1. What did they do
 
 ## Objective
 
@@ -64,3 +62,5 @@ asked Erika:
 ### Web development
 
 Develop a website for the consortium's clearinghouse.
+
+UniversitiesResearch Institutes and Regional Innovation Systems The Cases of Beijing and Shenzhen

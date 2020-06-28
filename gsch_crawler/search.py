@@ -10,7 +10,7 @@ def get_url(
     include_patents=True, start = 0
     ) -> str:
     base_url = f"https://scholar.google.com/scholar?hl=en&start={start}"
-    url = base_url + "&as_q=" + urllib.parse.quote(query)
+    url = base_url + "&q=" + urllib.parse.quote(query)
 
     if year_lo is not None and bool(re.match(r'.*([1-3][0-9]{3})', str(year_lo))):
         url += "&as_ylo=" + str(year_lo)
