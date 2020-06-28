@@ -32,14 +32,17 @@ We look for the following topic in the literature.
    - It discusses the possible consequences of migration temporariness for non-migrants in both home and host countries
    - Home: remittances; brain drain and brain gain
    - Host: fiscal impact; marginal productivity of labor
-2. @li2007cross discuss the pull and push factors of cross-border higher education Chinese student in Hong Kong and Macau.
+2. @li2007cross drawn data from questionnaires and interview from HKU, HKUST, MU and MUST discuss the pull and push factors of cross-border higher education Chinese student in Hong Kong and Macau.
+   - They suggest that mainland students in Macau valued economic factors such as economic income and competitive ability in the employment market more than their counterparts in Hong Kong where they emphasis on academic enhancement and social/cultural experience 
+   - The closer distance of HK/Macau and China are also their consideration as most of the research postgraduate have family and children. 
 3. @SHEN20161 conducts a comparative analysis of skilled and less-skilled migration in China, using the 2005 one percent population sample survey data.
    - they found that migration asymmetry existed among less-skilled migration in the period 2000–2005.
    - The top regions, such as GuangDong, Shanghai of relative attractiveness for skilled migration were similar to those of less-skilled migration.
    - Their model predicts that individuals who were younger, did not have children and elderly household members, and were engaged in non-agricultural work were more likely to migrate away from their original province, regardless of their skill levels.
    - Less-skilled migrants tended to leave areas with a large population, a small non-agricultural sector, a high unemployment rate, and a small amount of foreign investment
    - Skilled migrants tended to leave areas with a small population, an excessive supply of university graduates, a small non-agricultural sector, and a low wage level.
-4. @shen2015explaining
+4. @shen2015explaining estimates the effects of changing parameters in migration models and the changing demographic, social, and economic attributes in origin and destinations on migration flows.
+   - Their decomposition result shows that 62.28% of this increase was due to changes in the value of explanatory variables, while 37.72% was due to changes in the value of model parameters.
 5. @liu2014jobs confirmed the skill labour flow are in gerneral towards eastern-region provinces such as Guangdong, Beijing, Shanghai, Zhejiang, and Jiangsu.
    - They find that job related factors have dominating importance for the skilled labours' moving decision. However, other than wage, the climatic, social and culture amenities such as medical and cultural resources are also taken into their account of moving, less however.
    - They argue that although in their study the effect of amenities is less influential, it is expected to be more important in the future because the professional and managerial skilled worker become increasingly wealthy and emphasising work-life balance.
@@ -50,7 +53,7 @@ We look for the following topic in the literature.
    - They found the most highly rated extrinsic motives to settle in Hong Kong were higher salaries, better career paths, and the international environment. A better quality of life and political freedom are also mentioned.
    - Intrinsic pull factors include professional autonomy, opportunities to teach using innovative methods, and being able to help students to be independent thinkers.
 8. @tan2020temporary used participant observations and semi-structured interviews to suggests that the temporary status of migrants and fast-paced work schedules of manufacturing factories limit migrants’ options for after-work leisure activities both spatially and temporally.
-9. @zhang2018mode using  Hong Kong Panel Study of Social Dynamics (HKPSSD) and the China Family Panel Studies (CFPS) examines occupational attainment of Chinese immigrants in Hong Kong by comparing immigrants from Guangdong province with people who stayed in Guangdong and Hong Kong natives.
+9.  @zhang2018mode using  Hong Kong Panel Study of Social Dynamics (HKPSSD) and the China Family Panel Studies (CFPS) examines occupational attainment of Chinese immigrants in Hong Kong by comparing immigrants from Guangdong province with people who stayed in Guangdong and Hong Kong natives.
    - They found that Chinese immigrants have significantly lower occupational attainment, measured by International Socioeconomic Index (ISEI), than their counterparts in both the origin and the destination.
    - They also found that age of arrival to Hong Kong significantly matters to the occupational attainment.
    - Disadvantages exist for documented immigrants and those who arrived in Hong Kong at age 13 or older, whereas undocumented immigrants and those who arrived younger than 13 do not differ significantly from either Guangdong stayers or Hong Kong natives.
@@ -95,13 +98,15 @@ The parental migration usually affect their next generation daily life drastical
 - their education performance
 - their behaviour
 
-1. @chen2019effects discusses the mental health of mainland immigrants from discrimination
-2. @liu2017subjective *conducted a survey in GuangZhou* to discuss the subjective wellbeing of the migrants
+1. @chen2019effects using Hong Kong Panel Study of Social Dynamics (HKPSSD), they estimate the effects of neighborhood discrimination towards immigrants from Mainland China on the mental health of Chinese residents in Hong Kong.
+   - They found a higher level of immigrant discrimination is associated with a lower level of psychological distress for both post-1997 Mainland immigrants and other Chinese residents in Hong Kong
+   - They suggested that immigrant discrimination can signify a prejudice that leads to social distance or avoidance and that the post-1997 Mainland immigrants do not have extensive contact with other local residents in Hong Kong.
+2. @liu2017subjective conducted a survey in GuangZhou to discuss the subjective wellbeing of the migrants
    - They found migrants' self-evaluated welling being is, in general, lower than the local.
 3. ~~@meng2017children left behind children (irrelevant)~~
-4. @HU20141 using data from the 2011 *Survey on Social Integration of Migrant Children in Wuhan, China*, this study examined psychological and behavioral problems of migrant and left-behind children.
+4. @HU20141 using data from the 2011 Survey on Social Integration of Migrant Children in Wuhan, China, this study examined psychological and behavioral problems of migrant and left-behind children.
    - Results showed that left-behind and migrant children had poorer psychological and behavioral outcomes than local children but difference disappeared after controlling for family and school characteristics.
-5. @zhao2017long
+5. ~~@zhao2017long left behind child (irrelevent)~~
 6. @lu2019relaxation conducts a cross-sectional survey using the Chinese version of the Strengths and Difficulties Questionnaire (SDQ) in urban and migrant schools in the capital, Hangzhou, and in schools in two rural counties of Zhejiang Province.
    - They found migrant children were the most vulnerable to psychological problems.
    - They suggested improving conditions in urban areas for these children, and ensuring access to urban public schools.
@@ -116,10 +121,10 @@ The parental migration usually affect their next generation daily life drastical
    - They found temporary migrant children are much less likely to be enrolled in school compared to local children.
    - Rural temporary migrant children from Guangdong also encounter a major disadvantage in terms of school enrollment
    - They suggest these disadvantages faced by temporary migrant children is likely to have detrimental and long-term consequences for migrant children and for urban society as a whole.
-10. @xu2015causal applied Propensity score matching methods to estimate the effects of migration in 2417 children 10–15 years old from a 2010 national survey
-    1.  They found children’s migration has significant positive effects on their objective well-being.
-    2.  Their results reveal there is little difference between the left-behind and non-migrant children across multiple life domains.
-    3.  The Rosenbaum bounds tests indicate that the causal effects of child migration are sensitive to hidden bias for certain outcomes, but not for others.  
+10. @xu2015causal applied propensity score matching methods to estimate the effects of migration in 2417 children 10–15 years old from a 2010 national survey
+    - They found children’s migration has significant positive effects on their objective well-being.
+    - Their results reveal there is little difference between the left-behind and non-migrant children across multiple life domains.
+    - The Rosenbaum bounds tests indicate that the causal effects of child migration are sensitive to hidden bias for certain outcomes, but not for others.  
 
 ## School support and reform
 
