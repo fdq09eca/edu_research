@@ -15,82 +15,119 @@ Since change in labour market will be catered by labour migration and educationa
 Our literature review objectives are identifying these problems and reporting their latest circumstances. In particular the last five years relevant literatures will be categorise into the following aspects:
 
 1. Migration, return to education
-2. Children/student health and wellbeing
+2. Migrated children/student health and wellbeing
 3. Schools/governments support and policies reform
 
 ## Migration, Return to education
 
 We look for the following topic in the literature.
 
-- the demographics of the labour market in the GBA
-- flow of migrant between in the GBA and their purpose
-- the return of education in the GBA
+- Role of Human capital
+- the demographics of the labour market
+- flow of migrant and their purpose and incentives
+- the return of education
+
+### Human Capital
+
+1. @li2017human
+2. @wei2008role
+3. @fraumeni2019regional
+4. @li2019skill
+5. @development2020building
 
 ### Migration
 
-1. @dustmann2016economics proposes a general theoretical framework for modeling temporary migration decisions based on which they outline the various motives for temporariness.
+1. @li2007cross drawn data from questionnaires and interview from HKU, HKUST, MU and MUST discuss the pull and push factors of cross-border higher education Chinese student in Hong Kong and Macau.
+
+   - They suggest that mainland students in Macau valued economic factors such as economic income and competitive ability in the employment market more than their counterparts in Hong Kong where they emphasis on academic enhancement and social/cultural experience
+   - The closer distance of HK/Macau and China are also their consideration as most of the research postgraduate have family and children.
+
+2. @liu2014jobs confirmed the skill labour flow are in general towards eastern-region provinces such as Guangdong, Beijing, Shanghai, Zhejiang, and Jiangsu.
+
+   - They find that job related factors have dominating importance for the skilled labours' moving decision. However, other than wage, the climatic, social and culture amenities such as medical and cultural resources are also taken into their account of moving, less however.
+   - They argue that although in their study the effect of amenities is less influential, it is expected to be more important in the future because the professional and managerial skilled worker become increasingly wealthy and emphasising work-life balance.
+   - Besides, they found that the opportunity of university education for children is not valued for the skilled people destination choices unless they have the _hukou_ of the destination, conceivably due to regional discrimination in the process of university admission.
+   - They suggest that although China has implemented a series of hukou reform and has lowered the _hukou_ threshold for wealthy and highly educated migrants in recent years, the system remained a powerful gatekeeper that divides local hukou holders and non-local hukou holders. For example, the opportunities of universities education for children are secondary consideration for skilled worker's decision unless they hold the destination _hokou_ due to the regional discrimination in the universities admission process.
+
+3. @to2014destination discuss the choice of destination of the cross-border Chinese students within the Greater China Area.
+
+4. @shen2015explaining estimates the effects of changing parameters in migration models and the changing demographic, social, and economic attributes in origin and destinations on migration flows.
+
+   - Their decomposition result shows that 62.28% of this increase was due to changes in the value of explanatory variables, while 37.72% was due to changes in the value of model parameters.
+
+5. @dustmann2016economics proposes a general theoretical framework for modeling temporary migration decisions based on which they outline the various motives for temporariness.
+
    - It discusses the possible consequences of migration temporariness for non-migrants in both home and host countries
    - Home: remittances; brain drain and brain gain
-   - Host: fiscal impact; marginal productivity of labor
-2. @li2007cross drawn data from questionnaires and interview from HKU, HKUST, MU and MUST discuss the pull and push factors of cross-border higher education Chinese student in Hong Kong and Macau.
-   - They suggest that mainland students in Macau valued economic factors such as economic income and competitive ability in the employment market more than their counterparts in Hong Kong where they emphasis on academic enhancement and social/cultural experience 
-   - The closer distance of HK/Macau and China are also their consideration as most of the research postgraduate have family and children. 
-3. @SHEN20161 conducts a comparative analysis of skilled and less-skilled migration in China, using the 2005 one percent population sample survey data.
+   - Host: fiscal impact; marginal productivity of labour
+
+6. @SHEN20161 conducts a comparative analysis of skilled and less-skilled migration in China, using the 2005 one percent population sample survey data.
+
    - they found that migration asymmetry existed among less-skilled migration in the period 2000–2005.
    - The top regions, such as GuangDong, Shanghai of relative attractiveness for skilled migration were similar to those of less-skilled migration.
    - Their model predicts that individuals who were younger, did not have children and elderly household members, and were engaged in non-agricultural work were more likely to migrate away from their original province, regardless of their skill levels.
    - Less-skilled migrants tended to leave areas with a large population, a small non-agricultural sector, a high unemployment rate, and a small amount of foreign investment
    - Skilled migrants tended to leave areas with a small population, an excessive supply of university graduates, a small non-agricultural sector, and a low wage level.
-4. @shen2015explaining estimates the effects of changing parameters in migration models and the changing demographic, social, and economic attributes in origin and destinations on migration flows.
-   - Their decomposition result shows that 62.28% of this increase was due to changes in the value of explanatory variables, while 37.72% was due to changes in the value of model parameters.
-5. @liu2014jobs confirmed the skill labour flow are in gerneral towards eastern-region provinces such as Guangdong, Beijing, Shanghai, Zhejiang, and Jiangsu.
-   - They find that job related factors have dominating importance for the skilled labours' moving decision. However, other than wage, the climatic, social and culture amenities such as medical and cultural resources are also taken into their account of moving, less however.
-   - They argue that although in their study the effect of amenities is less influential, it is expected to be more important in the future because the professional and managerial skilled worker become increasingly wealthy and emphasising work-life balance.
-   - Besides, they found that the opportunity of university education for children is not valued for the skilled people destination choices unless they have the _hukou_ of the destination, conceivably due to regional discrimination in the process of university admission.
-   - They suggest that although China has implemented a series of hukou reform and has lowered the _hukou_ threshold for wealthy and highly educated migrants in recent years, the system remained a powerful gatekeeper that divides local hukou holders and non-local hukou holders. For example, the opportunities of universities education for children are secondary consideration for skilled worker's decision unless they hold the destination _hokou_ due to the regional discrimination in the universities admission process.
-6. @to2014destination discuss the choice of destination of the cross-border Chinese students within the Greater China Area.
+
 7. @yuen2017studying focus on Mainland students who have completed teacher education programmes in Hong Kong and then served as teachers in Hong Kong schools (Mainland teachers). They discuessed the attraction of them to stay and work in Hong Kong and the challenges they faced.
+
    - They found the most highly rated extrinsic motives to settle in Hong Kong were higher salaries, better career paths, and the international environment. A better quality of life and political freedom are also mentioned.
    - Intrinsic pull factors include professional autonomy, opportunities to teach using innovative methods, and being able to help students to be independent thinkers.
-8. @tan2020temporary used participant observations and semi-structured interviews to suggests that the temporary status of migrants and fast-paced work schedules of manufacturing factories limit migrants’ options for after-work leisure activities both spatially and temporally.
-9.  @zhang2018mode using  Hong Kong Panel Study of Social Dynamics (HKPSSD) and the China Family Panel Studies (CFPS) examines occupational attainment of Chinese immigrants in Hong Kong by comparing immigrants from Guangdong province with people who stayed in Guangdong and Hong Kong natives.
+
+8. @zhang2018mode using Hong Kong Panel Study of Social Dynamics (HKPSSD) and the China Family Panel Studies (CFPS) examines occupational attainment of Chinese immigrants in Hong Kong by comparing immigrants from Guangdong province with people who stayed in Guangdong and Hong Kong natives.
+
    - They found that Chinese immigrants have significantly lower occupational attainment, measured by International Socioeconomic Index (ISEI), than their counterparts in both the origin and the destination.
    - They also found that age of arrival to Hong Kong significantly matters to the occupational attainment.
    - Disadvantages exist for documented immigrants and those who arrived in Hong Kong at age 13 or older, whereas undocumented immigrants and those who arrived younger than 13 do not differ significantly from either Guangdong stayers or Hong Kong natives.
 
+9. @tan2020temporary used participant observations and semi-structured interviews to suggests that the temporary status of migrants and fast-paced work schedules of manufacturing factories limit migrants’ options for after-work leisure activities both spatially and temporally.
+
 ### Return to education
 
-1. @sakellariou2016returns using 2009 Rural Urban Migration in China (RUMiC) to estimate returns to schooling for rural-to-urban migrants and urban residents in China by instrumental variable estimation.
-   - The estimated the return of education are around 6–9% for urban workers compared to 7–8% for migrant workers. 
+1. @whalley2014regional using education as a measure of skill, they draw on data from 1995, 2002 and 2007 China household income project (CHIP) to estimate skill premia at the province and/or prefecture (or city) levels.
+
+   - They found although skill premia increased in nearly all provinces between 1995 and 2002, there was not such increase be-tween 2002 and 2007 except in the coastal provinces.
+   - Data from the 2007 survey indicate a strong positive relationship between export orientation and skill premia,with the coastal provinces exhibiting much higher skill premia than non-coastal provinces.
+
+2. @gao2015education using three waves of the China Urban Labour Survey (CULS 2001, 2005, 2010) to examines the effect of the expansion in education on the returns to schooling in urban China for migrants and non-migrants.
+
+- They found the premium to education increased by about 2%–3% over a period in which there was a rapid increase in education levels
+- This result is consistent with the demand for skilled labour increasing at a time when China tries to move up the value-added chain and an observed increase in urban wage inequality
+- In addition, the education premium is higher for non-migrants than migrants and higher for males than females.
+
+3. @sakellariou2016returns using 2009 Rural Urban Migration in China (RUMiC) to estimate returns to schooling for rural-to-urban migrants and urban residents in China by instrumental variable estimation.
+
+   - The estimated the return of education are around 6–9% for urban workers compared to 7–8% for migrant workers.
    - Returns for men (at 8–9%) are slightly higher than for women (at 6–7%).
-   -  Private returns to education in urban China in 2009 were not as high as other transition and developing countries, but substantial and have increased over time.
-2. @wang2018returns using CHIP2013 to determine the returns rate difference between those in the rural and urban areas.
-   - They found the rate of returns to education for the general samples was 13.9%. This, therefore, was higher than the rate (around 10%) in 2000-2010 in China. 
-   - There was a significant difference between rural (3.7%) and urban (25.6%) areas.
-   - The gender equality testing showed that in rural areas, the rate of returns to education for females (9.1%) was much higher than males (2.5%).
-   - The results provided an overview of the current situation regarding the educational investment in China. It also pointed out the income and educational inequality between rural-urban and male-female.
-3. ~~@hu2018three~~
+   - Private returns to education in urban China in 2009 were not as high as other transition and developing countries, but substantial and have increased over time.
+
 4. @ma2017higher conducted an empirical study to estimate the private internal rate of return to years of schooling (IRR) in China during the period after the implementation of higher education expansion policy using data from the Chinese General Social Survey data conducted in 2006 and 2014
+
    - They found that overall, from 2005 to 2013, the IRR decreased from 8.6% to 7.8% for the total sample, from 8.3% to 7.4% for men, and from 9.0% to 8.2% for women.
    - IRR of the high-level education group is higher than the low, middle and high-level education groups in both 2005 and 2013
    - They suggest that the higher education expansion policy negatively affected the IRR at university level, but positively affected the IRR at graduate school level
-   - while they suspect that the reduced IRR at university level is due to the problem of over-education for university graduates, they also consider higher education extension policy may promote technological innovation and raise the IRR of graduate  school graduates and urge for further investigation. 
-5. @gao2015education using three waves of the China Urban Labor Survey (CULS 2001, 2005, 2010) to examines the effect of the expansion in education on the returns to schooling in urban China for migrants and non-migrants.
-   - They found the premium to education increased by about 2%–3% over a period in which there was a rapid increase in education levels
-   - This result is consistent with the demand for skilled labor increasing at a time when China tries to move up the value-added chain and an observed increase in urban wage inequality
-   - In addition, the education premium is higher for non-migrants than migrants and higher for males than females.
-6. @wang2017economic examine economic returns to proficiency in English in China using two waves of the China Labor-Force Dynamics Survey (CLDS)
+   - while they suspect that the reduced IRR at university level is due to the problem of over-education for university graduates, they also consider higher education extension policy may promote technological innovation and raise the IRR of graduate school graduates and urge for further investigation.
+
+5. @wang2017economic examine economic returns to proficiency in English in China using two waves of the China Labour-Force Dynamics Survey (CLDS)
+
    - They found positive earnings returns to proficiency in English.
    - The returns to proficiency in English are higher in the eastern region e.g. Guangdong and Shanghai, higher for women and evidence of education-language and skill-language complementarity.
-   - They also observed urban locals english return more than the migrants.
-7. @asadullah2019labor examine China economic returns to education using data from the Chinese General Social Survey 2010.
-   - Gains from schooling rise sharply with higher levels of education. The estimated returns are 12.2% in urban provinces and 10.7% in coastal provinces, higher than in rural and inland areas. 
-   - Wage premium for workers with good English skills (speaking and listening) is 30%
-8. @whalley2014regional using education as a measure of skill, they draw on data from 1995, 2002 and 2007 China household income project (CHIP) to estimate skill premia at the province and/or  prefecture (or city) levels.
-   -  They found although skill premia increased in nearly all provinces between 1995 and 2002, there was not such increase be-tween 2002 and 2007 except in the coastal provinces. 
-   - Data from the 2007 survey indicate a strong positive relationship between export orientation and skill premia, with the coastal provinces exhibiting much higher skill premia than non-coastal provinces. 
+   - They also observed urban locals English have more return than the migrants.
 
-## Children/student health and wellbeing
+6. @wang2018returns using CHIP2013 to determine the returns rate difference between those in the rural and urban areas.
+
+   - They found the rate of returns to education for the general samples was 13.9%. This, therefore, was higher than the rate (around 10%) in 2000-2010 in China.
+   - There was a significant difference between rural (3.7%) and urban (25.6%) areas.
+   - The gender equality testing showed that in rural areas, the rate of returns to education for females (9.1%) was much higher than males (2.5%).
+   - The results provided an overview of the current situation regarding the educational investment in China. It also pointed out the income and educational inequality between rural-urban and male-female.
+
+7. ~~@hu2018three~~
+
+8. @asadullah2019labor examine China economic returns to education using data from the Chinese General Social Survey 2010.
+   - Gains from schooling rise sharply with higher levels of education. The estimated returns are 12.2% in urban provinces and 10.7% in coastal provinces, higher than in rural and inland areas.
+   - Wage premium for workers with good English skills (speaking and listening) is 30%
+
+## Migrant Children/student health and wellbeing
 
 The parental migration usually affect their next generation daily life drastically. The affected children well-being will be taken into account in our review
 
@@ -98,33 +135,49 @@ The parental migration usually affect their next generation daily life drastical
 - their education performance
 - their behaviour
 
-1. @chen2019effects using Hong Kong Panel Study of Social Dynamics (HKPSSD), they estimate the effects of neighborhood discrimination towards immigrants from Mainland China on the mental health of Chinese residents in Hong Kong.
-   - They found a higher level of immigrant discrimination is associated with a lower level of psychological distress for both post-1997 Mainland immigrants and other Chinese residents in Hong Kong
-   - They suggested that immigrant discrimination can signify a prejudice that leads to social distance or avoidance and that the post-1997 Mainland immigrants do not have extensive contact with other local residents in Hong Kong.
-2. @liu2017subjective conducted a survey in GuangZhou to discuss the subjective wellbeing of the migrants
-   - They found migrants' self-evaluated welling being is, in general, lower than the local.
-3. ~~@meng2017children left behind children (irrelevant)~~
-4. @HU20141 using data from the 2011 Survey on Social Integration of Migrant Children in Wuhan, China, this study examined psychological and behavioral problems of migrant and left-behind children.
-   - Results showed that left-behind and migrant children had poorer psychological and behavioral outcomes than local children but difference disappeared after controlling for family and school characteristics.
-5. ~~@zhao2017long left behind child (irrelevent)~~
-6. @lu2019relaxation conducts a cross-sectional survey using the Chinese version of the Strengths and Difficulties Questionnaire (SDQ) in urban and migrant schools in the capital, Hangzhou, and in schools in two rural counties of Zhejiang Province.
-   - They found migrant children were the most vulnerable to psychological problems.
-   - They suggested improving conditions in urban areas for these children, and ensuring access to urban public schools.
-7. @xu2018migrant conducted survey for 476 migrant children on educational processes and family influences in Tianjin China. 
-   - These children reported a fair-to-good subjective happiness level
-   - They found subjective happiness will rise alongside nine improvements: (1) public school enrollment, (2) nondiscriminatory admission to education, (3) targeted assistance for higher grade students, (4) integrated local-migrant classes, (5) teacher-student interactions, (6) extracurricular activities, (7) academic performance, (8) parent-child communication, and (9) friends in the city. 
-8. @CHEUNG2013121 compared rural-to-urban migrant adolescents and urban native adolescents to examine the relationships between victimization, local and trans-local ties, and mental well-being that might be unique to migrants.
+1. @liang2010educational use data from the 1995 China 1% Population Sample Survey to examine the school enrolment of migrant children who resided in cities of Guangdong province in 1995.
+
+   - They found temporary migrant children are much less likely to be enrolled in school compared to local children.
+   - Rural temporary migrant children from Guangdong also encounter a major disadvantage in terms of school enrolment
+   - They suggest these disadvantages faced by temporary migrant children is likely to have detrimental and long-term consequences for migrant children and for urban society as a whole.
+
+2. @CHEUNG2013121 compared rural-to-urban migrant adolescents and urban native adolescents to examine the relationships between victimization, local and trans-local ties, and mental well-being that might be unique to migrants.
+
    - They found victimization was associated with suboptimal psychological health in both the migrant and urban native samples.
    - they found social ties directly boosted psychological health in both samples, with the effects of trans-local and local ties proving equally important among migrant adolescents
    - They suggested better understanding of victimization stress and how it is affected by the locality of social ties as a coping resource could help to protect the health of young migrants in urban China.
-9. @liang2010educational use data from the 1995 China 1% Population Sample Survey to examine the school enrollment of migrant children who resided in cities of Guangdong province in 1995.
-   - They found temporary migrant children are much less likely to be enrolled in school compared to local children.
-   - Rural temporary migrant children from Guangdong also encounter a major disadvantage in terms of school enrollment
-   - They suggest these disadvantages faced by temporary migrant children is likely to have detrimental and long-term consequences for migrant children and for urban society as a whole.
-10. @xu2015causal applied propensity score matching methods to estimate the effects of migration in 2417 children 10–15 years old from a 2010 national survey
-    - They found children’s migration has significant positive effects on their objective well-being.
-    - Their results reveal there is little difference between the left-behind and non-migrant children across multiple life domains.
-    - The Rosenbaum bounds tests indicate that the causal effects of child migration are sensitive to hidden bias for certain outcomes, but not for others.  
+
+3. @HU20141 using data from the 2011 Survey on Social Integration of Migrant Children in Wuhan, China, this study examined psychological and behavioural problems of migrant and left-behind children.
+
+   - Results showed that left-behind and migrant children had poorer psychological and behavioural outcomes than local children but difference disappeared after controlling for family and school characteristics.
+
+4. @xu2015causal applied propensity score matching methods to estimate the effects of migration in 2417 children 10–15 years old from a 2010 national survey
+
+   - They found children’s migration has significant positive effects on their objective well-being.
+   - Their results reveal there is little difference between the left-behind and non-migrant children across multiple life domains.
+   - The Rosenbaum bounds tests indicate that the causal effects of child migration are sensitive to hidden bias for certain outcomes, but not for others.
+
+5. @liu2017subjective conducted a survey in GuangZhou to discuss the subjective wellbeing of the migrants
+
+   - They found migrants' self-evaluated welling being is, in general, lower than the local.
+
+6. @chen2019effects using Hong Kong Panel Study of Social Dynamics (HKPSSD), they estimate the effects of neighbourhood discrimination towards immigrants from Mainland China on the mental health of Chinese residents in Hong Kong.
+
+   - They found a higher level of immigrant discrimination is associated with a lower level of psychological distress for both post-1997 Mainland immigrants and other Chinese residents in Hong Kong
+   - They suggested that immigrant discrimination can signify a prejudice that leads to social distance or avoidance and that the post-1997 Mainland immigrants do not have extensive contact with other local residents in Hong Kong.
+
+7. @xu2018migrant conducted survey for 476 migrant children on educational processes and family influences in Tianjin China.
+
+   - These children reported a fair-to-good subjective happiness level
+   - They found subjective happiness will rise alongside nine improvements: (1) public school enrolment, (2) non-discriminatory admission to education, (3) targeted assistance for higher grade students, (4) integrated local-migrant classes, (5) teacher-student interactions, (6) extracurricular activities, (7) academic performance, (8) parent-child communication, and (9) friends in the city.
+
+8. @lu2019relaxation conducts a cross-sectional survey using the Chinese version of the Strengths and Difficulties Questionnaire (SDQ) in urban and migrant schools in the capital, Hangzhou, and in schools in two rural counties of Zhejiang Province.
+
+   - They found migrant children were the most vulnerable to psychological problems.
+   - They suggested improving conditions in urban areas for these children, and ensuring access to urban public schools.
+
+9. ~~@meng2017children left behind children (irrelevant)~~
+10. ~~@zhao2017long left behind child (irrelevant)~~
 
 ## School support and reform
 
@@ -139,5 +192,6 @@ The following literatures discuss the miscellaneous of GBA, such as background, 
 
 1. @hook2002role
 2. @liu2019china
+3. @kong2018efficiency
 
 ## References
