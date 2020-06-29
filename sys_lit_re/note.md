@@ -29,11 +29,12 @@ We look for the following topic in the literature.
 
 ### Human Capital
 
-1. @li2017human
-2. @wei2008role
-3. @fraumeni2019regional
-4. @li2019skill
-5. @development2020building
+1. @wei2008role
+2. @khor2016china
+3. @ha2016brain
+4. @li2017human
+5. @fraumeni2019regional
+6. @li2019skill
 
 ### Migration
 
@@ -49,7 +50,10 @@ We look for the following topic in the literature.
    - Besides, they found that the opportunity of university education for children is not valued for the skilled people destination choices unless they have the _hukou_ of the destination, conceivably due to regional discrimination in the process of university admission.
    - They suggest that although China has implemented a series of hukou reform and has lowered the _hukou_ threshold for wealthy and highly educated migrants in recent years, the system remained a powerful gatekeeper that divides local hukou holders and non-local hukou holders. For example, the opportunities of universities education for children are secondary consideration for skilled worker's decision unless they hold the destination _hokou_ due to the regional discrimination in the universities admission process.
 
-3. @to2014destination discuss the choice of destination of the cross-border Chinese students within the Greater China Area.
+3. @to2014destination use questionnaire approach to discuss the choice of destination of the cross-border Chinese students within the Greater China Area.
+
+   - The data was drawn by 326 questionnaire which only 3 of them are completed by non local HK higher education student.
+   - They found programme reputation, recognition of university qualifications, availability of course information, safety and cost of living in the host cities
 
 4. @shen2015explaining estimates the effects of changing parameters in migration models and the changing demographic, social, and economic attributes in origin and destinations on migration flows.
 
@@ -80,7 +84,9 @@ We look for the following topic in the literature.
    - They also found that age of arrival to Hong Kong significantly matters to the occupational attainment.
    - Disadvantages exist for documented immigrants and those who arrived in Hong Kong at age 13 or older, whereas undocumented immigrants and those who arrived younger than 13 do not differ significantly from either Guangdong stayers or Hong Kong natives.
 
-9. @tan2020temporary used participant observations and semi-structured interviews to suggests that the temporary status of migrants and fast-paced work schedules of manufacturing factories limit migrants’ options for after-work leisure activities both spatially and temporally.
+9. @fong2018immigrant
+
+10. @tan2020temporary used participant observations and semi-structured interviews to suggests that the temporary status of migrants and fast-paced work schedules of manufacturing factories limit migrants’ options for after-work leisure activities both spatially and temporally.
 
 ### Return to education
 
@@ -157,27 +163,29 @@ The parental migration usually affect their next generation daily life drastical
    - Their results reveal there is little difference between the left-behind and non-migrant children across multiple life domains.
    - The Rosenbaum bounds tests indicate that the causal effects of child migration are sensitive to hidden bias for certain outcomes, but not for others.
 
-5. @liu2017subjective conducted a survey in GuangZhou to discuss the subjective wellbeing of the migrants
+5. ~~@lok2017comparison LUHK currently unavailable, see [here](https://commons.ln.edu.hk/sw_master/6352/)~~
+
+6. @liu2017subjective conducted a survey in GuangZhou to discuss the subjective wellbeing of the migrants
 
    - They found migrants' self-evaluated welling being is, in general, lower than the local.
 
-6. @chen2019effects using Hong Kong Panel Study of Social Dynamics (HKPSSD), they estimate the effects of neighbourhood discrimination towards immigrants from Mainland China on the mental health of Chinese residents in Hong Kong.
+7. @chen2019effects using Hong Kong Panel Study of Social Dynamics (HKPSSD), they estimate the effects of neighbourhood discrimination towards immigrants from Mainland China on the mental health of Chinese residents in Hong Kong.
 
    - They found a higher level of immigrant discrimination is associated with a lower level of psychological distress for both post-1997 Mainland immigrants and other Chinese residents in Hong Kong
    - They suggested that immigrant discrimination can signify a prejudice that leads to social distance or avoidance and that the post-1997 Mainland immigrants do not have extensive contact with other local residents in Hong Kong.
 
-7. @xu2018migrant conducted survey for 476 migrant children on educational processes and family influences in Tianjin China.
+8. @xu2018migrant conducted survey for 476 migrant children on educational processes and family influences in Tianjin China.
 
    - These children reported a fair-to-good subjective happiness level
    - They found subjective happiness will rise alongside nine improvements: (1) public school enrolment, (2) non-discriminatory admission to education, (3) targeted assistance for higher grade students, (4) integrated local-migrant classes, (5) teacher-student interactions, (6) extracurricular activities, (7) academic performance, (8) parent-child communication, and (9) friends in the city.
 
-8. @lu2019relaxation conducts a cross-sectional survey using the Chinese version of the Strengths and Difficulties Questionnaire (SDQ) in urban and migrant schools in the capital, Hangzhou, and in schools in two rural counties of Zhejiang Province.
+9. @lu2019relaxation conducts a cross-sectional survey using the Chinese version of the Strengths and Difficulties Questionnaire (SDQ) in urban and migrant schools in the capital, Hangzhou, and in schools in two rural counties of Zhejiang Province.
 
    - They found migrant children were the most vulnerable to psychological problems.
    - They suggested improving conditions in urban areas for these children, and ensuring access to urban public schools.
 
-9. ~~@meng2017children left behind children (irrelevant)~~
-10. ~~@zhao2017long left behind child (irrelevant)~~
+10. ~~@meng2017children left behind children (irrelevant)~~
+11. ~~@zhao2017long left behind child (irrelevant)~~
 
 ## School support and reform
 
@@ -193,5 +201,7 @@ The following literatures discuss the miscellaneous of GBA, such as background, 
 1. @hook2002role
 2. @liu2019china
 3. @kong2018efficiency
+4. @weng2020evaluation
+5. @yu2014creative
 
 ## References

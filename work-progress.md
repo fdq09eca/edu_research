@@ -7,12 +7,12 @@ date: 28 June 2020
 # Task delegated
 
 1. Literature review (on-going)
-2. search for research grants opportunities (started)
+2. Search for research grants opportunities (started)
 3. Web-development (not started)
 
 ## Literature review
 
-Find literatures in journal or governmental documents recent 5 years with respect main 3 topics in the GBA context. Write a summary for each relevant literature, record their data source, see `./sys_lit_re/s_litre.pdf`
+Find literature in journal or governmental documents recent 5 years with respect main 3 topics in the GBA context. Write a summary for each relevant literature, record their data source, see `./sys_lit_re/s_litre.pdf`
 
 1. Migration, return to education
    1. Human capital: 5 found
@@ -21,7 +21,7 @@ Find literatures in journal or governmental documents recent 5 years with respec
 2. Migrated children/student health and wellbeing: found: 8 found
 3. Schools/governments support and policies reform
 
-total 29 journal literature found.
+Total of 29 journal literature found.
 
 In addition, I wrote a memo for the Labour interaction and mobility between GBA and HK Macau, mainly using the Census and Statistics Department, HKGov, see `./lit/memo.pdf`
 
@@ -51,14 +51,14 @@ I asked Erika (HKIER EO) for funding opportunities. While I doubt if there is an
 
 ## Task self initiate
 
-I wrote a web crawler to speed up the search of literatures in the first week, see folder `./gsch_crawler/`.
+I wrote a web crawler to speed up the search of literature in the first week, see folder `./gsch_crawler/`.
 
 ## Difficulties
 
 - Unclear objectives
   - Despite Prof Ou dedicating explanation, I can't grasp the big picture and understand what is the research initiative which slows down the work progress.
   - **What is the main question of the research project?**
-- Little relevant literatures in GBA context with respect to the assigned topics, there is plenty in country level, however.
+- Little relevant literature in GBA context with respect to the assigned topics, there is plenty in country level, however.
   - GBA context literature publishes in [en.cnki.com.cn](en.cnki.com.cn) such as [A Study On Synergic Development Of Guangdong-Hong Kong-Macau Greater Bay Area](http://en.cnki.com.cn/Article_en/CJFDTotal-GHSI201804001.htm) which is rather rare source of reference.
 - Web Development I have the following questions:
   1. What is the objective?

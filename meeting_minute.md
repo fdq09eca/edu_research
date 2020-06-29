@@ -73,7 +73,7 @@ The review scope will be, but not limited to, the following academic journals, i
 
 Make a list of research grant opportunities that supports research on the above topics
 
-asked Erika:
+Asked Erika:
 
 - DH Chen Foundation (陳廷驊基金會)
 - ORKTS, CUHK
