@@ -29,8 +29,17 @@ We look for the following topic in the literature.
 
 ### Human Capital
 
-1. @wei2008role
-2. @khor2016china
+1. @wei2008role examined empirically the role of human capital on China's economic growth.
+
+   - They previously used provincial data from 1996 to 2004 which showed an insignificant effect of human capital and a sizeable and significant effect of fixed capital investment on economic development.
+   - After correcting the endogeneity and using the 2SLS approach, they found the fixed capital investment loss its significance.
+   - They suggested human capital has already played a significant role in China's economic development.
+   - They predicted China's regional growth inequality may increase in the future because eastern areas traditionally have a large stock of college-educated workers and college-educated workforce is more likely to attract physical capital investment.
+
+2. @khor2016china suggested large discrepancies between official statistics on educational attainment in China and data from in-the-field academic human capital studies.
+   - they used the sixth population census data to show that China’s human capital is shockingly poor compare to the average upper secondary attainment rate in OECD countries by demonstrating the statistics on upper secondary education reported by the Ministry of Education are overestimated.
+   - They suggested effort to improve enrolments in upper secondary school, since they predicted there will be a high demand of skilled labour in the soon future of China.
+   - They future warned that failing to do such improvement in education, not only massive unemployment will likely occur but also the newly emerging industries may also falter owing to the lack of skilled workers.
 3. @ha2016brain
 4. @li2017human
 5. @fraumeni2019regional
@@ -127,7 +136,7 @@ We look for the following topic in the literature.
    - The gender equality testing showed that in rural areas, the rate of returns to education for females (9.1%) was much higher than males (2.5%).
    - The results provided an overview of the current situation regarding the educational investment in China. It also pointed out the income and educational inequality between rural-urban and male-female.
 
-7. ~~@hu2018three~~
+7. ~~@hu2018three irrelevant~~
 
 8. @asadullah2019labor examine China economic returns to education using data from the Chinese General Social Survey 2010.
    - Gains from schooling rise sharply with higher levels of education. The estimated returns are 12.2% in urban provinces and 10.7% in coastal provinces, higher than in rural and inland areas.
