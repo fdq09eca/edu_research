@@ -68,7 +68,7 @@ We look for the following topic in the literature.
 
    - Their decomposition result shows that 62.28% of this increase was due to changes in the value of explanatory variables, while 37.72% was due to changes in the value of model parameters.
 
-5. @dustmann2016economics proposes a general theoretical framework for modeling temporary migration decisions based on which they outline the various motives for temporariness.
+5. @dustmann2016economics proposes a general theoretical framework for modelling temporary migration decisions based on which they outline the various motives for temporariness.
 
    - It discusses the possible consequences of migration temporariness for non-migrants in both home and host countries
    - Home: remittances; brain drain and brain gain
@@ -82,7 +82,7 @@ We look for the following topic in the literature.
    - Less-skilled migrants tended to leave areas with a large population, a small non-agricultural sector, a high unemployment rate, and a small amount of foreign investment
    - Skilled migrants tended to leave areas with a small population, an excessive supply of university graduates, a small non-agricultural sector, and a low wage level.
 
-7. @yuen2017studying focus on Mainland students who have completed teacher education programmes in Hong Kong and then served as teachers in Hong Kong schools (Mainland teachers). They discuessed the attraction of them to stay and work in Hong Kong and the challenges they faced.
+7. @yuen2017studying focus on Mainland students who have completed teacher education programmes in Hong Kong and then served as teachers in Hong Kong schools (Mainland teachers). They discussed the attraction of them to stay and work in Hong Kong and the challenges they faced.
 
    - They found the most highly rated extrinsic motives to settle in Hong Kong were higher salaries, better career paths, and the international environment. A better quality of life and political freedom are also mentioned.
    - Intrinsic pull factors include professional autonomy, opportunities to teach using innovative methods, and being able to help students to be independent thinkers.
@@ -193,8 +193,9 @@ The parental migration usually affect their next generation daily life drastical
    - They found migrant children were the most vulnerable to psychological problems.
    - They suggested improving conditions in urban areas for these children, and ensuring access to urban public schools.
 
-10. ~~@meng2017children left behind children (irrelevant)~~
-11. ~~@zhao2017long left behind child (irrelevant)~~
+10. @li2019depressive
+11. ~~@meng2017children left behind children (irrelevant)~~
+12. ~~@zhao2017long left behind child (irrelevant)~~
 
 ## School support and reform
 
