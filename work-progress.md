@@ -12,7 +12,7 @@ date: 28 June 2020
 
 ## Literature review
 
-Find literatures in journal or governmental documents recent 5 years with respect main 3 topics in the GBA context. Write a summary for each relevant literature, record their data source, see `s_litre.pdf`
+Find literatures in journal or governmental documents recent 5 years with respect main 3 topics in the GBA context. Write a summary for each relevant literature, record their data source, see `./sys_lit_re/s_litre.pdf`
 
 1. Migration, return to education
    1. Human capital: 5 found
@@ -51,7 +51,7 @@ I asked Erika (HKIER EO) for funding opportunities. While I doubt if there is an
 
 ## Task self initiate
 
-I wrote a web crawler to speed up the search of literatures in the first week, see folder `gsch_crawler`.
+I wrote a web crawler to speed up the search of literatures in the first week, see folder `./gsch_crawler/`.
 
 ## Difficulties
 
