@@ -22,6 +22,7 @@ Using [Jekyll](https://jekyllrb.com/) as the site generator
 
 ### Framework
 
+I propose the following themes, they are all responsive, i.e. it does not mess up in phone.
 [Feeling Responsive](https://phlow.github.io/feeling-responsive/)
 
 - Pros
