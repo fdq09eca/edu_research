@@ -22,13 +22,14 @@ Using [Jekyll](https://jekyllrb.com/) as the site generator
 
 ### Framework
 
-I propose the following themes, they are all responsive, i.e. it does not mess up in phone.
+I propose the following themes[^1]. They are all responsive, i.e. it does not mess up with phone.
+
 [Feeling Responsive](https://phlow.github.io/feeling-responsive/)
 
 - Pros
 
   - Dropdown list navigation
-  - Blog (ease for publishing latest new, if you have any.)
+  - Blog, ease for publishing latest new, if any.
   - Good documentation
 
 - Cons
@@ -36,21 +37,25 @@ I propose the following themes, they are all responsive, i.e. it does not mess u
   - Plain appearance
   - Less maintained by the theme owner
 
-[Minimal mistake](https://mmistakes.github.io/minimal-mistakes/)
+[Minimal mistake](https://mmistakes.github.io/minimal-mistakes/), [Alembic](https://alembic.darn.es/), [Yellowcake](https://yellowcake.netlify.app/)
 
 - Pros
 
-  - Blog (ease for publishing latest news, if any.)
+  - Blog
   - Good documentation
   - I used it before, see [ERC website](https://erc.cuhk.edu.hk/)
   - Frequently maintained theme, robust and timely update
+  - [Alembic](https://alembic.darn.es/) and [Yellowcake](https://yellowcake.netlify.app/) come with official [Netlify](https://www.netlify.com/) content managment system (CMS)
+    - Do not have to know how to code to maintain the site
+    - [Minimal mistake](https://mmistakes.github.io/minimal-mistakes/) CMS is written by me
 
 - Cons
 
   - No Dropdown list navigation
-  - Widely used theme (may not be bad), see [here](https://www.cross-validated.com/index.html), [here](https://yosuketanigawa.com/), and [here](https://dseconf.org/about)
+  - [Minimal mistake](https://mmistakes.github.io/minimal-mistakes/) are widely used theme (may not be bad)
+    - see [here](https://www.cross-validated.com/index.html), [here](https://yosuketanigawa.com/), and [here](https://dseconf.org/about)
 
-[Agency](https://startbootstrap.com/previews/agency/)[Event](https://msiastc.github.io/)
+[Agency](https://startbootstrap.com/previews/agency/), [Event](https://msiastc.github.io/)
 
 - Pros
 
@@ -63,3 +68,5 @@ I propose the following themes, they are all responsive, i.e. it does not mess u
   - No Blog
   - Poor documentation (I am ok with it though)
   - The structure of this theme is closer to html instead of compiling with a site generator convention. (all html)
+
+[^1]: Source: [https://jekyll-themes.com/](https://jekyll-themes.com/), [https://jekyllthemes.io/](https://jekyllthemes.io/), [jamstackthemes.dev](https://jamstackthemes.dev/)
