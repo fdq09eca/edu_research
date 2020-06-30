@@ -144,7 +144,7 @@ We look for the following topic in the literature.
 
 ## Migrant Children/student health and wellbeing
 
-The parental migration usually affect their next generation daily life drastically. The affected children well-being will be taken into account in our review
+The expected labour migration to GBA are not necessarily skilled labour exclusive; in fact, the flow of migrant toward Gangdong area are mixed with skill and less-skilled labour. Although the former are policy targeted talents, the latter are relatively disadvantaged. Talent or educated labour may secure a position in the mega city due to their in-demand skillset, making a living for the less skilled labour are, in contrast, not as easy. In turn, their rough life experience introduce different health or mental issues. Besides, regardless the skill level, migration affects their next generation daily life drastically. The migrants and their children well-being will be taken into account in our review
 
 - their mental/physical health for the migrant student
 - their education performance
@@ -191,7 +191,7 @@ The parental migration usually affect their next generation daily life drastical
 9. @lu2019relaxation conducts a cross-sectional survey using the Chinese version of the Strengths and Difficulties Questionnaire (SDQ) in urban and migrant schools in the capital, Hangzhou, and in schools in two rural counties of Zhejiang Province.
 
    - They found migrant children were the most vulnerable to psychological problems.
-   - They suggested improving conditions in urban areas for these children, and ensuring access to urban public schools.
+   - They suggested improving conditions in urban areas for these children and ensuring their access to urban public schools.
 
 10. @li2019depressive
 11. ~~@meng2017children left behind children (irrelevant)~~
