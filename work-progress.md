@@ -2,6 +2,8 @@
 title: Work Progress (15 - 29 June 2020)
 author: Chris Lam
 date: 28 June 2020
+urlcolor: "blue"
+colorlinks: true
 ---
 
 # Task delegated
