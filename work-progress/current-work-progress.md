@@ -1,7 +1,7 @@
 ---
 title: Work Progress (30 - ? June 2020)
 author: Chris Lam
-date: 30 June 2020
+date: 2 July 2020
 urlcolor: "blue"
 colorlinks: true
 ---
@@ -54,6 +54,9 @@ I propose the following themes[^1]. They are all responsive, i.e. it does not me
   - No Dropdown list navigation
   - [Minimal mistake](https://mmistakes.github.io/minimal-mistakes/) are widely used theme (may not be bad)
     - see [here](https://www.cross-validated.com/index.html), [here](https://yosuketanigawa.com/), and [here](https://dseconf.org/about)
+  - ~~[Yellowcake](https://yellowcake.netlify.app/) has copyright issue (solved)~~
+    - ~~the top right corner has a github repo~~
+    - ~~footer has copyright statement~~
 
 [Agency](https://startbootstrap.com/previews/agency/), [Event](https://msiastc.github.io/)
 
